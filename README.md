@@ -1,6 +1,6 @@
 # todey
 
-A new Flutter project.
+Todoey is a to-do list apps, that includes language switching, notifications, due dates, and categorizing.
 
 ## Getting Started
 
